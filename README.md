@@ -18,3 +18,4 @@ El modelo contempla la relación entre clientes y pedidos, así como el control 
 
 ## Diagrama E-R en UML
 Se representarán las entidades como clases con sus atributos y relaciones mediante multiplicidad.
+![image](https://github.com/user-attachments/assets/108ceee1-3b53-4408-bbcc-92361f923a37)
